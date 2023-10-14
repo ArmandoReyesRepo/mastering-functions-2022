@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/ArmandoReyesRepo/mastering-functions-2022/actions/workflows/main.yml/badge.svg)](https://github.com/ArmandoReyesRepo/mastering-functions-2022/actions/workflows/main.yml)
+
+
 [![Python application test with Github Actions](https://github.com/nogibjj/mastering-functions-2022/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/mastering-functions-2022/actions/workflows/main.yml)
 
 # mastering-functions-2022
